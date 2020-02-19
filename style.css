@@ -1,0 +1,17 @@
+.navbar-light .navbar-nav .nav-link {
+	color: black !important;
+}
+
+.header {
+	background: url("imgs/Hero.jpeg");
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: 'Gloria Hallelujah', cursive;
+	color: white;
+	text-shadow: 2px 2px #000000;
+}
