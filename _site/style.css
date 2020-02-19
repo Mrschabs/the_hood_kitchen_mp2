@@ -15,3 +15,22 @@
 	color: white;
 	text-shadow: 2px 2px #000000;
 }
+
+section{
+	padding: 100px;
+}
+
+#testimonials {
+	background-color: #3a3a3a;
+	color: white;
+	text-align: center;
+}
+
+h1 {
+	color:#e0c15e;
+}
+
+#carousel {
+	background: url("imgs/6.jpeg");
+	min-height: 100vh;
+}
