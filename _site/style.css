@@ -28,6 +28,7 @@ section{
 
 h1 {
 	color:#e0c15e;
+	font-family: 'Shadows Into Light', ;
 }
 
 #carousel {
@@ -35,6 +36,6 @@ h1 {
 	min-height: 100vh;
 }
 
-.hero {
-	font-family: 'Shadows Into Light', ;
+.funky {
+	
 }
