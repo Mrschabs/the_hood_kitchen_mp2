@@ -17,10 +17,6 @@
 	font-weight: bolder;
 }
 
-h1#header {
-	color: white;
-}
-
 section{
 	padding: 90px;
 }
@@ -39,8 +35,10 @@ h1 {
 }
 
 #carousel {
-	background: url("imgs/6.jpeg");
+	background: url("imgs/6a.jpg");
 	min-height: 100vh;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 footer {
@@ -49,4 +47,3 @@ footer {
 	text-align: center;
 	color: grey;
 }
-
