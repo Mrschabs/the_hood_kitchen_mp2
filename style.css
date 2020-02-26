@@ -30,7 +30,7 @@ section{
 h1 {
 	color:#e0c15e;
 	font-family: 'Ovo';
-	font-size: 4rem;
+	font-size: 3.5rem;
 	font-weight: bold;
 }
 
@@ -49,6 +49,4 @@ footer {
 	color: grey;
 }
 
-.w3-center.w3-animate-bottom {
-	animation-duration: 3s;
-}
+
