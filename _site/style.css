@@ -49,3 +49,6 @@ footer {
 	color: grey;
 }
 
+.w3-center.w3-animate-bottom {
+	animation-duration: 3s;
+}
