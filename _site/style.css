@@ -3,7 +3,7 @@
 }
 
 #header {
-	background: url("imgs/Hero.jpeg");
+	background: url("imgs/Hero2.jpg");
 	min-height: 100vh;
 	display: flex;
 	align-items: center;
@@ -35,10 +35,11 @@ h1 {
 }
 
 #carousel {
-	background: url("imgs/6a.jpg");
+	background: url("imgs/6b.jpg");
 	min-height: 100vh;
 	background-repeat: no-repeat;
 	background-size: cover;
+	justify-content: center;
 }
 
 footer {
@@ -47,3 +48,4 @@ footer {
 	text-align: center;
 	color: grey;
 }
+
